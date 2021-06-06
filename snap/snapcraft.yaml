@@ -1,5 +1,5 @@
-name: tiled
-adopt-info: tiled
+name: dc-tiledmap
+adopt-info: dc-tiledmap
 version: git
 license: GPL-2.0
 base: core18
